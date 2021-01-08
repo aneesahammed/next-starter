@@ -35,5 +35,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Starter template
 ```js
-yarn create next-app shell -e https://github.com/aneesahammed/next-starter
+yarn create next-app your-app-name -e https://github.com/aneesahammed/next-starter
 ```
